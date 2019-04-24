@@ -11,6 +11,7 @@
     <modules>
         <module>product-api</module>
         <module>product-service</module>
+        <module>rpc-core</module>
     </modules>
 
     <dependencyManagement>
